@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "f44cd4f1a984ad32",
+    "type": "split",
+    "children": [
+      {
+        "id": "6795edd418eb5443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eefc54eeeabff0f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Documentation.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Documentation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "91e8adaaae47c8a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "96016ca4beffa4d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfc9d0c9bcb3c89d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2d6458b9276edbec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b3e3993a9000f57e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8024d39a2a58f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "98d25173bea431c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b85ff3ede3d33c12",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Documentation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Documentation"
+            }
+          },
+          {
+            "id": "b602bfdf5287cefd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "526862e3eb809d0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f01c360314d280fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "f3eb3a3e8e2e5799",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "20ec23751b248b6c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "eefc54eeeabff0f6",
+  "lastOpenFiles": [
+    "Home.md",
+    "Encounters/Inbox.md",
+    "Documentation.md",
+    "Atlas/Technical MOC.md",
+    "Atlas/Product MOC.md",
+    "Calendar/2026-01-11.md",
+    "2026-01-12.md",
+    "2026-01-10.md",
+    "Extras/Templates/Encounter.md",
+    "Extras/Templates/Meeting Note.md",
+    "Extras/Templates/Card (Knowledge).md",
+    "Extras/Templates/Space.md",
+    "Extras/Templates/Daily Note.md",
+    "Extras/Templates",
+    "Untitled.base",
+    "Spaces",
+    "Sources",
+    "Extras",
+    "Cards",
+    "Calendar",
+    "Atlas",
+    "Encounters",
+    "Welcome.md"
+  ]
+}
