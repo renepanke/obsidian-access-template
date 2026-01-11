@@ -193,11 +193,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eefc54eeeabff0f6",
+  "active": "cfc9d0c9bcb3c89d",
   "lastOpenFiles": [
+    "Spaces/Textdokument (neu).txt",
+    "Sources/Textdokument (neu).txt",
+    "Encounters/Textdokument (neu).txt",
+    "Cards/Textdokument (neu).txt",
+    "Documentation.md",
+    "Untitled.md",
     "Home.md",
     "Encounters/Inbox.md",
-    "Documentation.md",
     "Atlas/Technical MOC.md",
     "Atlas/Product MOC.md",
     "Calendar/2026-01-11.md",
@@ -215,8 +220,6 @@
     "Extras",
     "Cards",
     "Calendar",
-    "Atlas",
-    "Encounters",
     "Welcome.md"
   ]
 }
